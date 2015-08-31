@@ -36,18 +36,18 @@ CREATE TABLE `sqltable` (
 - MySQL database server must be available and the credentials correctly defined 
 in the **.rio* file.
 - Database tables called *alarms* and "temperature" are assumed.
-```sql
-CREATE TABLE `alarms` (
-  `ID` int(11) NOT NULL AUTO_INCREMENT,
-  `Time` datetime,
-  `AlarmID` int(11),
-  `Code` int(11),
-  `Level` int(11),
-  `Value` double,
-  PRIMARY KEY (`ID`)
-);
-```
-```sql
+
+        CREATE TABLE `sqltable` (
+          `ID` int(11) NOT NULL AUTO_INCREMENT,
+          `Time` datetime,
+          `temperature` double,
+          `valvepos` double,
+          `power` double,
+          `manual_mode` INT(11),
+          PRIMARY KEY (`ID`)
+        );
+        
+ ```sql
 CREATE TABLE `temperature` (
   `ID` int(11) NOT NULL AUTO_INCREMENT,
   `GroupID` int(11),
