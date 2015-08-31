@@ -21,7 +21,8 @@ dalsi tabulka
 ## Prerequisities ##
 
 - RexCore and DbDrv modules must be installed and running on the target device.
- ```sql
+        
+```sql
 CREATE TABLE `sqltable` (
   `ID` int(11) NOT NULL AUTO_INCREMENT,
   `Time` datetime,
