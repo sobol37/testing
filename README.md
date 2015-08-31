@@ -21,7 +21,7 @@ dalsi tabulka
 ## Prerequisities ##
 
 - RexCore and DbDrv modules must be installed and running on the target device.
-        
+```sql
 CREATE TABLE `sqltable` (
   `ID` int(11) NOT NULL AUTO_INCREMENT,
   `Time` datetime,
@@ -31,7 +31,7 @@ CREATE TABLE `sqltable` (
   `manual_mode` INT(11),
   PRIMARY KEY (`ID`)
 );
-        
+````
 - ODBC connector for MySQL database is installed on the target device.
 - MySQL database server must be available and the credentials correctly defined 
 in the **.rio* file.
