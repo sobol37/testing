@@ -39,7 +39,7 @@ dalsi tabulka
 in the **.rio* file.
 - Database tables called *alarms* and "temperature" are assumed.
 
-        ```sql
+  ```sql
         CREATE TABLE `sqltable` (
           `ID` int(11) NOT NULL AUTO_INCREMENT,
           `Time` datetime,
