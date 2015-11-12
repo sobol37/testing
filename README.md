@@ -22,9 +22,16 @@ dalsi tabulka
 
 - Run this command on RPi
   
-  ```bash
+  ```
   curl -L -o rex-install.zip http://tinyurl.com/rex-install-rpi
-```  
+  ```  
+
+- jeste jinak
+
+    ```
+    curl -L -o rex-install.zip http://tinyurl.com/rex-install-rpi
+    ```  
+
 
 - RexCore and DbDrv modules must be installed and running on the target device.
 
