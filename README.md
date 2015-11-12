@@ -22,13 +22,13 @@ dalsi tabulka
 
 - Run this command on RPi
   
-  ```
+  ```sh
   curl -L -o rex-install.zip http://tinyurl.com/rex-install-rpi
   ```  
 
 - jeste jinak
 
-    ```
+    ```sh
     curl -L -o rex-install.zip http://tinyurl.com/rex-install-rpi
     ```  
 
