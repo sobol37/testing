@@ -1,3 +1,13 @@
+Lorem ipsum dolor sit amet consectetuer elit ornare urna ipsum sagittis. Elit massa Nulla volutpat lorem In libero ac laoreet sit wisi. Ligula risus volutpat justo euismod vel Donec penatibus Ut enim wisi. Amet at turpis a natoque penatibus arcu convallis turpis libero Nam. Ridiculus ante lacus Nam ut congue In.
+
+Dapibus ligula neque Vivamus mauris Sed et dolor sem vitae ullamcorper. Sagittis libero Curabitur tortor congue Ut porttitor Sed Maecenas Nam dui. In leo risus Vestibulum convallis adipiscing ante consequat nibh metus mi. Elit Vestibulum augue Phasellus accumsan Sed congue mollis Curabitur wisi quis. Mauris enim volutpat congue vitae iaculis sapien fringilla sem Donec pharetra. Odio et sapien leo leo elit nisl.
+
+Curabitur penatibus quis dictumst malesuada porttitor ligula urna nec augue cursus. Dictum Curabitur leo Sed at felis amet at ut consequat sed. Eu quam sem Vestibulum elit Ut tempor ipsum Morbi eros pretium. Ligula amet adipiscing Lorem Duis Integer urna mi Sed nunc Aliquam. Condimentum sociis convallis auctor leo nibh velit ante ac Vestibulum Vestibulum. Elit quam Quisque Pellentesque laoreet libero Morbi ullamcorper.
+
+Lorem egestas nunc Cum felis Phasellus condimentum Lorem Quisque id quis. Tincidunt congue et Nam suscipit Vivamus ornare accumsan tristique suscipit est. Sed Fusce hendrerit amet Vestibulum risus nunc tellus magna dolor gravida. Quisque adipiscing ante Curabitur sagittis Sed pede dictum massa est Aliquam. Netus eget et mauris habitasse nec platea turpis nascetur.
+
+
+
 testing
 =======
 
@@ -22,7 +32,7 @@ dalsi tabulka
 
 - Run this command on RPi
   
-  ```sh
+  ```
   curl -L -o rex-install.zip http://tinyurl.com/rex-install-rpi
   ```  
 
